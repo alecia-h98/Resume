@@ -1,0 +1,30 @@
+body {
+  background-color: pink
+}
+
+ 
+h1 {
+  color: White
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h3 {
+  Color: Blue
+}
+
+
+div {
+  color: purple;
+}
+
+
+.header {
+  background: white
+}
+
+
+.footer {
+  background: white;
+}
